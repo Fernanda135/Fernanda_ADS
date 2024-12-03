@@ -1,0 +1,1 @@
+console.log('seja bem-vindo(a)')
