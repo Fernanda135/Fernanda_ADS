@@ -1,5 +1,4 @@
-function exibirParesAte(numero) {
-  let i = 0;
+ let i = 0;
 
   while (i <= numero) {
     if (i % 2 === 0) {
